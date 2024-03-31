@@ -1,2 +1,2 @@
 # react_budget_app
-Developing fronted apps using react.
+Developing frontend apps using react by Coursera|IBM
